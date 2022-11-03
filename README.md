@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-constantcase/tags). For example,
+
+```javascript
 import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.0.1-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ bool = isConstantcase( 'BEEP and BOOP' );
 <body>
 <script type="module">
 
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.0.1-esm/index.mjs';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@esm/index.mjs';
 
 console.log( isConstantcase( 'BEEP_BOOP' ) );
 // => true
