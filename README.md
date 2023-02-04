@@ -122,10 +122,10 @@ console.log( isConstantcase( 'beep boop' ) );
 
 ## Installation
 
-To use the module as a general utility, install the module globally
+To use the module as a general utility, install the CLI package globally
 
 ```bash
-npm install -g @stdlib/assert-is-constantcase
+npm install -g @stdlib/assert-is-constantcase-cli
 ```
 
 </section>
