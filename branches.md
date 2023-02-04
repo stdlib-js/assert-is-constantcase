@@ -27,7 +27,7 @@ This repository has the following branches:
 -   **esm**: [ES Module][esm-url] branch for use via a `script` tag without the need for installation and bundlers.
 -   **deno**: [Deno][deno-url] branch for use in Deno.
 -   **umd**: [UMD][umd-url] branch for use in Observable, or in dual browser/Node.js environments.
--   **cli**: [CLI][cli-url] branch for use in the command line.
+-   **cli**: [CLI][cli-url] branch for use on the command line.
 
 The following diagram illustrates the relationships among the above branches:
 
