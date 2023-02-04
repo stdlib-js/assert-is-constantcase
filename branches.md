@@ -54,4 +54,4 @@ C -->|extract| G[cli];
 [deno-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/deno
 [umd-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/umd
 [esm-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/esm
-[cli-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/cli"
+[cli-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/cli
