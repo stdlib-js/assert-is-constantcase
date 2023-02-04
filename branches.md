@@ -40,13 +40,13 @@ C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 C -->|extract| G[cli];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-constantcase"
-click B href "https://github.com/stdlib-js/assert-is-constantcase/tree/main"
-click C href "https://github.com/stdlib-js/assert-is-constantcase/tree/production"
-click D href "https://github.com/stdlib-js/assert-is-constantcase/tree/esm"
-click E href "https://github.com/stdlib-js/assert-is-constantcase/tree/deno"
-click F href "https://github.com/stdlib-js/assert-is-constantcase/tree/umd"
-click G href "https://github.com/stdlib-js/assert-is-constantcase/tree/cli"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-constantcase"
+%% click B href "https://github.com/stdlib-js/assert-is-constantcase/tree/main"
+%% click C href "https://github.com/stdlib-js/assert-is-constantcase/tree/production"
+%% click D href "https://github.com/stdlib-js/assert-is-constantcase/tree/esm"
+%% click E href "https://github.com/stdlib-js/assert-is-constantcase/tree/deno"
+%% click F href "https://github.com/stdlib-js/assert-is-constantcase/tree/umd"
+%% click G href "https://github.com/stdlib-js/assert-is-constantcase/tree/cli"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-constantcase
