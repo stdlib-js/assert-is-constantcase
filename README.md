@@ -276,6 +276,9 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
+[cli-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/cli
+[main-url]: https://github.com/stdlib-js/assert-is-constantcase
+
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
