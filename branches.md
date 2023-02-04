@@ -38,7 +38,7 @@ B[main] -->|productionize| C[production];
 C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
-C -->| G[cli];
+C -->|extract| G[cli];
 
 click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-constantcase"
 click B href "https://github.com/stdlib-js/assert-is-constantcase/tree/main"
