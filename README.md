@@ -212,7 +212,7 @@ true
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-string`][@stdlib/assert/is-string]</span><span class="delimiter">: </span><span class="description">test if a value is a string.</span>
+-   <span class="package-name">[`@stdlib/assert-is-string`][@stdlib/assert/is-string]</span><span class="delimiter">: </span><span class="description">test if a value is a string.</span>
 
 </section>
 
@@ -279,7 +279,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/assert-is-constantcase#cli
 [cli-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/cli
-[main-url]: https://github.com/stdlib-js/assert-is-constantcase
+[@stdlib/assert-is-constantcase]: https://github.com/stdlib-js/assert-is-constantcase/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
