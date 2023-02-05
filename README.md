@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@esm/index.mjs';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.0.3-esm/index.mjs';
 ```
 
 #### isConstantcase( value )
@@ -72,7 +72,7 @@ bool = isConstantcase( 'BEEP and BOOP' );
 <body>
 <script type="module">
 
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@esm/index.mjs';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.0.3-esm/index.mjs';
 
 console.log( isConstantcase( 'BEEP_BOOP' ) );
 // => true
