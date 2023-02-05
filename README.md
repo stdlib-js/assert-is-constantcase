@@ -175,16 +175,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/assert-is-constantcase-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/assert-is-constantcase-cli
 
-[test-image]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/actions/workflows/test.yml/badge.svg?branch=v0.0.4
-[test-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/actions/workflows/test.yml?query=branch:v0.0.4
+[test-image]: https://github.com/stdlib-js/assert-is-constantcase/actions/workflows/test.yml/badge.svg?branch=v0.0.4
+[test-url]: https://github.com/stdlib-js/assert-is-constantcase/actions/workflows/test.yml?query=branch:v0.0.4
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-constantcase@v0.0.4/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-constantcase@v0.0.4?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-constantcase/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/assert-is-constantcase?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-constantcase@v0.0.4.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-constantcase@v0.0.4/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/assert-is-constantcase.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/assert-is-constantcase/main
 
 -->
 
@@ -195,19 +195,19 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4#cli
-[cli-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/tree/cli
-[@stdlib/assert-is-constantcase-cli]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/tree/main
+[cli-section]: https://github.com/stdlib-js/assert-is-constantcase#cli
+[cli-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/cli
+[@stdlib/assert-is-constantcase-cli]: https://github.com/stdlib-js/assert-is-constantcase/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/tree/deno
-[umd-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/tree/umd
-[esm-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/tree/esm
-[branches-url]: https://github.com/stdlib-js/assert-is-constantcase@v0.0.4/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/deno
+[umd-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/umd
+[esm-url]: https://github.com/stdlib-js/assert-is-constantcase/tree/esm
+[branches-url]: https://github.com/stdlib-js/assert-is-constantcase/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-constantcase@v0.0.4/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-constantcase/main/LICENSE
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
 
