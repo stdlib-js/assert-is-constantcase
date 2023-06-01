@@ -47,7 +47,7 @@
     "@stdlib/process-read-stdin": "^0.0.7",
     "@stdlib/regexp-eol": "^0.0.7",
     "@stdlib/streams-node-stdin": "^0.0.7",
-    "@stdlib/string-base-constantcase": "^0.0.2",
+    "@stdlib/string-base-constantcase": "^0.0.3",
     "@stdlib/utils-regexp-from-string": "^0.0.9"
   },
   "devDependencies": {
