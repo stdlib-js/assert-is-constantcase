@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@deno/mod.js';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.2.1-deno/mod.js';
 ```
 
 #### isConstantcase( value )
@@ -78,7 +78,7 @@ bool = isConstantcase( 'BEEP and BOOP' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@deno/mod.js';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.2.1-deno/mod.js';
 
 console.log( isConstantcase( 'BEEP_BOOP' ) );
 // => true
