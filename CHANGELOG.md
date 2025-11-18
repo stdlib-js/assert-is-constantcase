@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-29)
+## Unreleased (2025-11-18)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a8f91a0`](https://github.com/stdlib-js/stdlib/commit/a8f91a0b6ea2aff9ca80a61c764b246d1789889b) - **docs:** fix return annotations in TSDoc examples _(by Philipp Burckhardt)_
 -   [`54363ed`](https://github.com/stdlib-js/stdlib/commit/54363ed3920de649123a27427efc7cfedd6fd78b) - **docs:** fix return annotation value _(by Philipp Burckhardt)_
 
 </details>
