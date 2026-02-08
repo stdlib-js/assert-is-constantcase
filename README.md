@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-constantcase/tags). For example,
+
+```javascript
 import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.2.3-deno/mod.js';
 ```
 
@@ -78,7 +83,7 @@ bool = isConstantcase( 'BEEP and BOOP' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@v0.2.3-deno/mod.js';
+import isConstantcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-constantcase@deno/mod.js';
 
 console.log( isConstantcase( 'BEEP_BOOP' ) );
 // => true
