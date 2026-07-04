@@ -77,7 +77,23 @@
     "win32",
     "windows"
   ],
-  "keywords": [],
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "is",
+    "isconstantcase",
+    "constantcase",
+    "string",
+    "valid",
+    "validate",
+    "test"
+  ],
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
