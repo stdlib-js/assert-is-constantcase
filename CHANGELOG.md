@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-11)
+## Unreleased (2026-11-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`22cc581`](https://github.com/stdlib-js/stdlib/commit/22cc58187fe0874b4695caa6797d5355b6b9a47d) - **chore:** add keywords [(#13251)](https://github.com/stdlib-js/stdlib/pull/13251) _(by Philipp Burckhardt)_
 
 </details>
